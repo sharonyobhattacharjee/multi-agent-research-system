@@ -21,3 +21,20 @@ __pycache__/
 
 # Streamlit secrets
 .streamlit/secrets.toml
+
+# JetBrains IDE
+.idea/
+
+# Node.js dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Vercel
+.vercel/
+
+# Build and test output
+coverage/
+dist/
