@@ -5,7 +5,7 @@
 NEXUS is a full-stack AI research application that automates web research, webpage extraction, report generation, and quality evaluation through a sequential multi-agent workflow.
 
 <p align="center">
-  **[Live Demo](https://multi-agent-research-system-ten-neon.vercel.app/) · [GitHub Repository](https://github.com/sharonyobhattacharjee/multi-agent-research-system)**
+  **[Live Demo](https://multi-agent-research-system-ten-neon.vercel.app/) · 
 </p>
 
 ## Overview
